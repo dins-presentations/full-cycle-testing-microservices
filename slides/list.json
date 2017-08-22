@@ -4,6 +4,22 @@
         "introduction/what-will-be.html"
     ],
     [
-        "current_situation/platform.html"
+        "current_situation/service.html",
+        "current_situation/architecture_diagram.html",
+        "current_situation/code_statistic.html",
+        "current_situation/test_cases_statistic.html",
+        "current_situation/platform.html",
+        "current_situation/component_statistic.html",
+        "current_situation/normal_environment.html",
+        "current_situation/environment.html",
+        "current_situation/release_cycle.html",
+        "current_situation/release_process.html",
+        {
+            "filename": "current_situation/decomposition_process.html",
+            "attr": {
+                "data-background-image": "resources/img/hatty.png",
+                "data-background-transition": "fade-out"
+            }
+        }
     ]
 ]
