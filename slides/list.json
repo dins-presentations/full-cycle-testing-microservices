@@ -12,14 +12,89 @@
         "current_situation/component_statistic.html",
         "current_situation/normal_environment.html",
         "current_situation/environment.html",
+        "current_situation/release_cycle_diagram.html",
         "current_situation/release_cycle.html",
         "current_situation/release_process.html",
         {
             "filename": "current_situation/decomposition_process.html",
             "attr": {
+                "data-background-image": "resources/img/microservices.png",
+                "data-background-transition": "slide"
+            }
+        },
+        {
+            "filename": "current_situation/what-if-decomposition.html",
+            "attr": {
                 "data-background-image": "resources/img/hatty.png",
                 "data-background-transition": "fade-out"
             }
+        },
+        {
+            "filename": "current_situation/challenge_accepted.html",
+            "attr": {
+                "data-background-image": "resources/img/challenge.png",
+                "data-background-transition": "fade-out"
+            }
         }
-    ]
+    ],
+    [
+        "testing/distribution.html",
+        "testing/use_docker.html",
+        "testing/change_process.html"
+    ],
+    [
+        "environment/test_environment.html",
+        {
+            "filename": "environment/environment_management.html",
+            "attr": {
+                "data-background-image": "resources/img/environment_management.png",
+                "data-background-transition": "fade-out"
+            }
+        }
+    ],
+    [
+        "testing/test_framework.html",
+        {
+            "filename": "testing/test_framework_kraken.html",
+            "attr": {
+                "data-background-image": "resources/img/kraken.png",
+                "data-background-transition": "fade-out"
+            }
+        },
+        "testing/what-to-do.html",
+        "testing/wtf.html"
+    ],
+    [
+        "ci/continuous-integration.html",
+        {
+            "filename": "ci/jenkins.html",
+            "attr": {
+                "data-background-image": "resources/img/jenkins.png",
+                "data-background-transition": "fade-out"
+            }
+        },
+        {
+            "filename": "ci/jenkins-pipeline.html",
+            "attr": {
+                "data-background-image": "resources/img/jenkins-pipeline.png",
+                "data-background-transition": "fade-out"
+            }
+        }
+    ],
+    [
+        "reports/assert_true.html"
+    ],
+    [
+        "culmination/what-we-got.html",
+        {
+            "filename": "culmination/culmination.html",
+            "attr": {
+                "data-background-image": "resources/img/final.png",
+                "data-background-transition": "fade-out"
+            }
+        }
+    ],
+    "links.html",
+    "contacts.html",
+    "questions.html"
 ]
