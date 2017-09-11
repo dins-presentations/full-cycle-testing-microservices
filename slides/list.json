@@ -38,6 +38,12 @@
         }
     ],
     [
+        "multi_stage_ci/intro.html",
+        "multi_stage_ci/modern_product.html",
+        "multi_stage_ci/structure.html",
+        "multi_stage_ci/very_modern_products.html"
+    ],
+    [
         "testing/distribution.html",
         "testing/use_docker.html",
         "testing/change_process.html"
